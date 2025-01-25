@@ -1,4 +1,4 @@
-# tictactoe beginner Javascript
+# tictactoe using javascipt
 
 This is my first ever project made using JavaScript, HTML and CSS
 
